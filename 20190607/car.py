@@ -43,6 +43,8 @@ if __name__ == '__main__':
         my_car.say_state()
         print("20190616 修改")
         print("20190717xiuga")
+        print("20190617xiugai")
+        print("20190618")
 
 
 
