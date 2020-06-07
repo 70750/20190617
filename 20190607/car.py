@@ -1,4 +1,5 @@
 class Car:
+    #20200607 vss 
     def __init__(self):
         self.speed = 0
         self.odometer = 0
