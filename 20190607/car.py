@@ -3,7 +3,7 @@ class Car:
         self.speed = 0
         self.odometer = 0
         self.time = 0
-
+'''20200607'''
     def say_state(self):
         print("I am going {}kph!".format(self.speed))
 
