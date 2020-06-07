@@ -14,6 +14,10 @@ class Solver:
         else:
             return "This equation has no roots"
 
+<<<<<<< HEAD
+'''git add'''
+=======
+>>>>>>> 8c313ca99d4b666506d1d9fa3d86f16eb1b2981e
 
 if __name__ == '__main__':
     solver = Solver()
@@ -26,4 +30,9 @@ if __name__ == '__main__':
         print(result)
         print(result)
 
+<<<<<<< HEAD
+    print("20190622")
+
+=======
+>>>>>>> 8c313ca99d4b666506d1d9fa3d86f16eb1b2981e
 
