@@ -1,17 +1,9 @@
 class Car:
-<<<<<<< HEAD
     #20200607 vss 
-=======
->>>>>>> 8c313ca99d4b666506d1d9fa3d86f16eb1b2981e
     def __init__(self):
         self.speed = 0
         self.odometer = 0
         self.time = 0
-<<<<<<< HEAD
-
-=======
-'''20200607'''
->>>>>>> 8c313ca99d4b666506d1d9fa3d86f16eb1b2981e
     def say_state(self):
         print("I am going {}kph!".format(self.speed))
 
@@ -24,12 +16,9 @@ class Car:
     def step(self):
         self.odometer += self.speed
         self.time += 1
-<<<<<<< HEAD
         
 
         
-=======
->>>>>>> 8c313ca99d4b666506d1d9fa3d86f16eb1b2981e
 
     def average_speed(self):
         if self.time == 0:
@@ -60,19 +49,17 @@ if __name__ == '__main__':
         print("20190617xiugai")
         print("20190618")
 
-<<<<<<< HEAD
+
         print("in branch dev")
         print("in branch 20190622")
-<<<<<<< HEAD
+
         print("in master 20190622")
-=======
+
         print("in branch 20190622")
         
 
->>>>>>> feature1
 
-=======
->>>>>>> 8c313ca99d4b666506d1d9fa3d86f16eb1b2981e
+
 
 
 
